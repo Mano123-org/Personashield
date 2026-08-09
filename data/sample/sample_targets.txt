@@ -1,0 +1,5 @@
+# One target per line — email, username, phone, or domain.
+# Lines starting with # are ignored.
+alice@example.test
+bob@example.test
+carol@example.test
