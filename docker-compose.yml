@@ -1,0 +1,7 @@
+services:
+  personashield:
+    build: .
+    volumes:
+      - ./pshield-data:/data
+    stdin_open: true
+    tty: true

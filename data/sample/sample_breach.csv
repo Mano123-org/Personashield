@@ -1,0 +1,7 @@
+email,username,password_hash,phone,full_name,source,breach_date,hash_type,description
+alice@example.test,alice,$2b$12$SAMPLEHASHVALUE1,+15550001111,Alice Example,ExampleDB,2024-01-10,bcrypt,Synthetic sample record for testing.
+alice@example.test,alice_e,,+15550001111,Alice Example,ExampleForum,2022-08-19,,Synthetic sample record for testing.
+bob@example.test,bobby,$2b$12$SAMPLEHASHVALUE2,,Bob Example,ExampleService,2023-11-02,bcrypt,Synthetic sample record for testing.
+carol@example.test,carolc,,+15550002222,Carol Example,ExampleForum,2021-05-14,,Synthetic sample record for testing.
+carol@example.test,carolc,$2b$12$SAMPLEHASHVALUE3,+15550002222,Carol Example,ExampleDB,2024-06-01,bcrypt,Synthetic sample record for testing.
+carol@example.test,carolc,,+15550002222,Carol Example,ExampleShop,2024-07-20,,Synthetic sample record for testing.
